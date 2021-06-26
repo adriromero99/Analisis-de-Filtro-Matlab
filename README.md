@@ -21,3 +21,13 @@ A lo largo del trabajo se crean gráficos con las herramientas de plotting de Ma
     * Realizar cálculos y obtener soluciones numéricas a los problemas planteados con el fin de compararlos con las soluciones analíticas esperadas
   * Manejo de LaTeX para redactar informes
   * Pensamiento crítico y habilidades explicativas
+
+# Algunos gráficos analizados
+### Respuesta a señal cuadrada teórica 
+![img1](cuadrada_f0_10.png)
+
+### Respuesta a señal cuadrada simulada
+![img2](cuadrada_f0_10_Spice.png)
+
+### Circuito utilizado
+![img3](FiltroCascada.png)
