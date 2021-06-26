@@ -24,10 +24,10 @@ A lo largo del trabajo se crean gráficos con las herramientas de plotting de Ma
 
 # Algunos gráficos analizados
 ### Respuesta a señal cuadrada teórica 
-![img1](cuadrada_f0_10.png)
+![img1](images/cuadrada_f0_10.png)
 
 ### Respuesta a señal cuadrada simulada
-![img2](cuadrada_f0_10_Spice.png)
+![img2](images/cuadrada_f0_10_Spice.png)
 
 ### Circuito utilizado
-![img3](FiltroCascada.png)
+![img3](images/FiltroCascada.png)
